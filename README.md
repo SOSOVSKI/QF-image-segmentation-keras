@@ -1,6 +1,6 @@
 # Quantitative Fractography Semantic Segmentation
 
-This repository is created to present the training process and the predictions results that are published on the scientific research work: _" Toward quantitative fractography using convolutional neural networks "_(https://arxiv.org/abs/1908.02242).
+This repository is created to present the training process and the predictions results that are published on the scientific research work: _" Toward quantitative fractography using convolutional neural networks "_(https://doi.org/10.1016/j.engfracmech.2020.106992).
 
 The source code is a modification of the code published at [image-segmentation-keras](https://github.com/divamgupta/image-segmentation-keras) developed by https://divamgupta.com, with the addition of some extra tools needed for the training process. 
 
